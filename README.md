@@ -1,4 +1,3 @@
-<img width="1512" alt="Screenshot 2024-11-29 at 11 10 12 PM" src="https://github.com/user-attachments/assets/ea627ca5-e657-4f40-8845-ac1324d61448">
 # Investment Platform
 
 This project provides a platform for collaborative investments in stocks and cryptocurrencies. It allows users to search for assets, make investments, create collaborative investment requests, track portfolios, and display data with technical indicators. The app uses **Streamlit**, **Plotly**, and various APIs (such as **Tiingo** for stock data and **CoinCap**, **Cryptopanic** for cryptocurrency data) for real-time data fetching and visualization.
