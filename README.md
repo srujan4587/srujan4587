@@ -1,4 +1,4 @@
-
+<img width="1512" alt="Screenshot 2024-11-29 at 11 10 12 PM" src="https://github.com/user-attachments/assets/ea627ca5-e657-4f40-8845-ac1324d61448">
 # Investment Platform
 
 This project provides a platform for collaborative investments in stocks and cryptocurrencies. It allows users to search for assets, make investments, create collaborative investment requests, track portfolios, and display data with technical indicators. The app uses **Streamlit**, **Plotly**, and various APIs (such as **Tiingo** for stock data and **CoinCap**, **Cryptopanic** for cryptocurrency data) for real-time data fetching and visualization.
@@ -72,7 +72,8 @@ streamlit run app.py
 
 
 - **Login or Sign Up**: When the app starts, you'll be prompted to either sign up for a new account or log in to an existing one.
-- **Search for Stocks or Cryptos**: Navigate to the Home tab where you can search for stocks or cryptocurrencies by name or symbol.
+  <img width="1512" alt="Screenshot 2024-11-29 at 11 07 07 PM" src="https://github.com/user-attachments/assets/fa31ff49-37e3-4f14-85ec-203a26ed3af3">
+- **Search for Stocks or Cryptos**: Navigate to the Home tab where you can search for stocks or cryptocurrencies by name or symbol.<img width="1512" alt="Screenshot 2024-11-29 at 11 10 12 PM" src="https://github.com/user-attachments/assets/29faf12b-c1b6-4877-95a6-dcd7a93f4fc7">
 - **Make an Investment**: Once you select an asset, you can view its real-time data and make an investment using the virtual balance.
 - **Portfolio and Watchlist**: You can view your investments and manage your watchlist for stocks and cryptocurrencies in the Portfolio and Watchlist tabs.
 - **Collaborative Investments**: Navigate to Collaborative Investments, where you can create a request to invest together with other users. You can contribute to a shared investment by specifying the amount.
