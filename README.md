@@ -33,11 +33,12 @@ git clone https://github.com/yourusername/collaborative-investment.git
 cd collaborative-investment
 
 #### Step 2: Set up a virtual environment
+
 '''bash
-Copy code
 python3 -m venv .venv
 source .venv/bin/activate  # For Mac/Linux
 .venv\Scripts\activate     # For Windows
+
 Step 3: Install dependencies
 bash
 Copy code
