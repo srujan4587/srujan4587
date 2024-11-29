@@ -78,6 +78,7 @@ streamlit run app.py
 - **Portfolio and Watchlist**: You can view your investments and manage your watchlist for stocks and cryptocurrencies in the Portfolio and Watchlist tabs.
 - <img width="1512" alt="Screenshot 2024-11-29 at 11 12 46 PM" src="https://github.com/user-attachments/assets/408d8cb7-4c38-454b-9408-2ba10839768f">
 <img width="1512" alt="Screenshot 2024-11-29 at 11 16 11 PM" src="https://github.com/user-attachments/assets/6d754c1f-ae56-40c1-a8ac-b9db1f5d76c9">
+
 - **Collaborative Investments**: Navigate to Collaborative Investments, where you can create a request to invest together with other users. You can contribute to a shared investment by specifying the amount.
 <img width="1512" alt="Screenshot 2024-11-29 at 11 17 20 PM" src="https://github.com/user-attachments/assets/cc56e08d-edaf-430d-98b5-c44ab3a0c026">
 
